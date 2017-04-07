@@ -1,0 +1,9 @@
+Good Videos
+-----------
+
+1.  Git Commandline Basics: https://www.youtube.com/watch?v=HVsySz-h9r4
+
+Good Links
+----------
+
+1.  http://stackoverflow.com/questions/4060221/how-to-reliably-open-a-file-in-the-same-directory-as-a-python-script
