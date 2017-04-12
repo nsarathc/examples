@@ -22,3 +22,9 @@ PostgreSQL
 ----------
 
 1. http://www.bentedder.com/use-pgadmin-access-postgres-database-within-vagrant-box/
+
+
+Miscellaneous
+-------------
+
+1. https://daringfireball.net/projects/markdown/syntax
