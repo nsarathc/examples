@@ -28,3 +28,4 @@ Miscellaneous
 -------------
 
 1. https://daringfireball.net/projects/markdown/syntax
+2. https://stackedit.io/editor
