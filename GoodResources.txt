@@ -7,6 +7,13 @@ Git
 
 1.  Git Commandline Basics: https://www.youtube.com/watch?v=HVsySz-h9r4
 
+Python
+------
+1. Transforming Code into Beautiful, Idiomatic Python - https://www.youtube.com/watch?v=OSGv2VnC0go
+2. Mike Bayer: Introduction to SQLAlchemy - PyCon 2014 - https://www.youtube.com/watch?v=P141KRbxVKc
+3. Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions - https://www.youtube.com/watch?v=FsAPt_9Bf3U
+4. Python OOP Tutorial (Series, 1) - https://www.youtube.com/watch?v=FsAPt_9Bf3U
+
 
 ==========
 Good Links
