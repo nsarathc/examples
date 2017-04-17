@@ -24,6 +24,10 @@ Git
 
 1.  http://stackoverflow.com/questions/4060221/how-to-reliably-open-a-file-in-the-same-directory-as-a-python-script
 
+Python
+------
+
+1. Generators in Python (David M. Beazley) - http://www.dabeaz.com/generators/
 
 PostgreSQL
 ----------
