@@ -28,6 +28,7 @@ Python
 ------
 
 1. Generators in Python (David M. Beazley) - http://www.dabeaz.com/generators/
+2. SQLAlchemy (and a whole lot of Python) - https://www.fullstackpython.com/sqlalchemy.html
 
 PostgreSQL
 ----------
