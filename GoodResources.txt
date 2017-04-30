@@ -9,7 +9,7 @@ Git
 
 Python
 ------
-1. Transforming Code into Beautiful, Idiomatic Python - https://www.youtube.com/watch?v=OSGv2VnC0go
+1. Transforming Code into Beautiful, Idiomatic Python - https://www.youtube.com/watch?v=OSGv2VnC0go ( https://gist.github.com/JeffPaine/6213790 )
 2. Mike Bayer: Introduction to SQLAlchemy - PyCon 2014 - https://www.youtube.com/watch?v=P141KRbxVKc
 3. Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions - https://www.youtube.com/watch?v=FsAPt_9Bf3U
 4. Python OOP Tutorial (Series, 1) - https://www.youtube.com/watch?v=FsAPt_9Bf3U
@@ -30,7 +30,7 @@ Python
 
 1. Generators in Python (David M. Beazley) - http://www.dabeaz.com/generators/
 2. SQLAlchemy (and a whole lot of Python) - https://www.fullstackpython.com/sqlalchemy.html
-3. SQLAlchey - http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html
+3. SQLAlchemy - http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html
 
 PostgreSQL
 ----------
