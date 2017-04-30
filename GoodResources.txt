@@ -13,6 +13,7 @@ Python
 2. Mike Bayer: Introduction to SQLAlchemy - PyCon 2014 - https://www.youtube.com/watch?v=P141KRbxVKc
 3. Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions - https://www.youtube.com/watch?v=FsAPt_9Bf3U
 4. Python OOP Tutorial (Series, 1) - https://www.youtube.com/watch?v=FsAPt_9Bf3U
+5. Preparing for Python Interviews - https://www.youtube.com/watch?v=DEwgZNC-KyE
 
 
 ==========
