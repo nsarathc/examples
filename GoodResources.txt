@@ -9,14 +9,15 @@ Git
 
 Python
 ------
-1. Raymond Hettinger : Transforming Code into Beautiful, Idiomatic Python - https://www.youtube.com/watch?v=OSGv2VnC0go ( https://gist.github.com/JeffPaine/6213790 )
-2. Raymond Hettinger : Python's Class Development Toolkit - https://www.youtube.com/watch?v=HTLu2DFOdTg
-3. Raymond Hettinger : The Art of Subclassing - https://www.youtube.com/watch?v=miGolgp9xq8
-3. Mike Bayer: Introduction to SQLAlchemy - PyCon 2014 - https://www.youtube.com/watch?v=P141KRbxVKc
-4. Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions - https://www.youtube.com/watch?v=FsAPt_9Bf3U
-5. Python OOP Tutorial (Series, 1) - https://www.youtube.com/watch?v=FsAPt_9Bf3U
-6. Preparing for Python Interviews - https://www.youtube.com/watch?v=DEwgZNC-KyE
-7. Python Metaprogramming for Mad Scientists and Evil Geniuses - https://www.youtube.com/watch?v=Adr_QuDZxuM
+ 1. Raymond Hettinger : Transforming Code into Beautiful, Idiomatic Python - https://www.youtube.com/watch?v=OSGv2VnC0go ( https://gist.github.com/JeffPaine/6213790 )
+ 2. Raymond Hettinger : Python's Class Development Toolkit - https://www.youtube.com/watch?v=HTLu2DFOdTg
+ 3. Raymond Hettinger : The Art of Subclassing - https://www.youtube.com/watch?v=miGolgp9xq8
+ 4. Mike Bayer : Introduction to SQLAlchemy - PyCon 2014 - https://www.youtube.com/watch?v=P141KRbxVKc
+ 5. Mike Beyer : The SQLAlchemy Session -  https://www.youtube.com/watch?v=PKAdehPHOMo
+ 6. Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions - https://www.youtube.com/watch?v=FsAPt_9Bf3U
+ 7. Python OOP Tutorial (Series, 1) - https://www.youtube.com/watch?v=FsAPt_9Bf3U
+ 8. Preparing for Python Interviews - https://www.youtube.com/watch?v=DEwgZNC-KyE
+ 9. Python Metaprogramming for Mad Scientists and Evil Geniuses - https://www.youtube.com/watch?v=Adr_QuDZxuM
 
 ==========
 Good Links
