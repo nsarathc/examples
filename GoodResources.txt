@@ -47,3 +47,4 @@ Miscellaneous
 
 1. https://daringfireball.net/projects/markdown/syntax
 2. https://stackedit.io/editor
+3. HTML, CSS and JavaScript Lessons: http://learn.shayhowe.com/
