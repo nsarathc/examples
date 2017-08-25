@@ -16,9 +16,11 @@ The Python package, _Faker_, helps us to generate random data for many common an
 * [Python: Create Fake Data with Faker][2]
 * [Generating Fake Data for Python Unit Tests with Faker][3]
 * [A Practical Guide to Anonymizing Datasets with Python & Faker][4]
+* [Faker: The Python tool to generate localized random data][5]
 
 
 [1]: https://github.com/joke2k/faker
 [2]: https://dzone.com/articles/python-create-fake-data-faker
 [3]: https://semaphoreci.com/community/tutorials/generating-fake-data-for-python-unit-tests-with-faker
 [4]: https://districtdatalabs.silvrback.com/a-practical-guide-to-anonymizing-datasets-with-python-faker
+[5]: http://joke2k.net/faker/
