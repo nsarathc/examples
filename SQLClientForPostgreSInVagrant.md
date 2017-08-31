@@ -8,7 +8,7 @@ I have a Vagrant box (Ubuntu) setup with PostgreSQL on my Windows 7 host. I want
 1.  Edit `pghba.conf` (the file can have a different name sometimes like this: `pg_hba.conf`).  
     1. On the last line, create a new row with the following 5 columns: `host all all all password`
     1. Save changes and exit.
-1. Edit postgresql.conf (in the same directory).  
+1. Edit `postgresql.conf` (in the same directory).  
    1. `listen_addresses = '*'`
    1. Save changes and exit. 
 1. Restart PostgresQL service in Ubuntu.
