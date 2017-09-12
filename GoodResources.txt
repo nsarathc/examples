@@ -36,6 +36,7 @@ Python
 2. SQLAlchemy (and a whole lot of Python) - https://www.fullstackpython.com/sqlalchemy.html
 3. SQLAlchemy - http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html
 4. Sphinx - http://pyvideo.org/pycon-us-2013/documenting-your-project-in-sphinx.html 
+5. Anonymous Functions in Python - http://www.secnetix.de/olli/Python/lambda_functions.hawk
 
 PostgreSQL
 ----------
