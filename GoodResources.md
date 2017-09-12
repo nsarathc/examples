@@ -1,5 +1,6 @@
 ## Good Videos
 
+
 ### Git
 
 1.  Git Commandline Basics: https://www.youtube.com/watch?v=HVsySz-h9r4
@@ -22,6 +23,7 @@
 
 ## Good Links
 
+
 ### Git
 
 1.  http://stackoverflow.com/questions/4060221/how-to-reliably-open-a-file-in-the-same-directory-as-a-python-script
@@ -33,6 +35,7 @@
 3.  **Python Tutorial:**  [SQLAlchemy](http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html)
 4.  **Python Tutorial:**  [Documentation with Sphinx](http://pyvideo.org/pycon-us-2013/documenting-your-project-in-sphinx.html)
 5.  **Python Tutorial:**  [Anonymous (a.k.a., Lambda or Inline) Functions in Python]( http://www.secnetix.de/olli/Python/lambda_functions.hawk)
+6.  **Python Tutorial:**  [Python Information and Examples](http://www.secnetix.de/olli/Python/)
 
 ### PostgreSQL
 
@@ -40,10 +43,15 @@
 
 ### Linux
 
-1. Installing offline software packages: https://askubuntu.com/questions/25961/how-do-i-install-a-tar-gz-or-tar-bz2-file, and https://askubuntu.com/questions/191390/how-to-use-sudo-command-to-install-tar-gz 
+1. **Installing offline software packages:** 
+      1.  [Discussion 1](https://askubuntu.com/questions/25961/how-do-i-install-a-tar-gz-or-tar-bz2-file)
+      2.  [Discussion 2](https://askubuntu.com/questions/191390/how-to-use-sudo-command-to-install-tar-gz)
 
 ### Miscellaneous
 
-1. https://daringfireball.net/projects/markdown/syntax
-2. https://stackedit.io/editor
-3. HTML, CSS and JavaScript Lessons: http://learn.shayhowe.com/  (and) http://codeacademy.com/
+1.  **Markdown**  
+      1.  [Syntax](https://daringfireball.net/projects/markdown/syntax)
+      1.  [Online Editor](https://stackedit.io/editor)
+1.  **HTML, CSS and JavaScript Lessons**
+      1.  [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
+      1.  [Lessons on Codecademy](http://codeacademy.com/)
