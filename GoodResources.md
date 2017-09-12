@@ -1,14 +1,12 @@
-===========
-Good Videos
-===========
+## Good Videos
 
-Git
----
+### Git
 
 1.  Git Commandline Basics: https://www.youtube.com/watch?v=HVsySz-h9r4
 
-Python
-------
+
+### Python
+
   1. Raymond Hettinger : Transforming Code into Beautiful, Idiomatic Python - https://www.youtube.com/watch?v=OSGv2VnC0go ( https://gist.github.com/JeffPaine/6213790 )
   2. Raymond Hettinger : Python's Class Development Toolkit - https://www.youtube.com/watch?v=HTLu2DFOdTg
   3. Raymond Hettinger : The Art of Subclassing - https://www.youtube.com/watch?v=miGolgp9xq8
@@ -20,17 +18,14 @@ Python
   9. Preparing for Python Interviews - https://www.youtube.com/watch?v=DEwgZNC-KyE
  10. Python Metaprogramming for Mad Scientists and Evil Geniuses - https://www.youtube.com/watch?v=Adr_QuDZxuM
 
-==========
-Good Links
-==========
 
-Git
----
+## Good Links
+
+### Git
 
 1.  http://stackoverflow.com/questions/4060221/how-to-reliably-open-a-file-in-the-same-directory-as-a-python-script
 
-Python
-------
+### Python
 
 1. Generators in Python (David M. Beazley) - http://www.dabeaz.com/generators/
 2. SQLAlchemy (and a whole lot of Python) - https://www.fullstackpython.com/sqlalchemy.html
@@ -38,21 +33,16 @@ Python
 4. Sphinx - http://pyvideo.org/pycon-us-2013/documenting-your-project-in-sphinx.html 
 5. Anonymous Functions in Python - http://www.secnetix.de/olli/Python/lambda_functions.hawk
 
-PostgreSQL
-----------
+### PostgreSQL
 
 1. http://www.bentedder.com/use-pgadmin-access-postgres-database-within-vagrant-box/
 
-Linux
------
+### Linux
 
 1. Installing offline software packages: https://askubuntu.com/questions/25961/how-do-i-install-a-tar-gz-or-tar-bz2-file, and https://askubuntu.com/questions/191390/how-to-use-sudo-command-to-install-tar-gz 
 
-Miscellaneous
--------------
+### Miscellaneous
 
 1. https://daringfireball.net/projects/markdown/syntax
 2. https://stackedit.io/editor
 3. HTML, CSS and JavaScript Lessons: http://learn.shayhowe.com/  (and) http://codeacademy.com/
-
-
