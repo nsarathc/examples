@@ -3,7 +3,7 @@
 
 ### Git
 
-1.  Git Commandline Basics: https://www.youtube.com/watch?v=HVsySz-h9r4
+1.  [Git Commandline Basics](https://www.youtube.com/watch?v=HVsySz-h9r4)
 
 ### Python
 
@@ -23,11 +23,6 @@
 
 ## Good Links
 
-
-### Git
-
-1.  http://stackoverflow.com/questions/4060221/how-to-reliably-open-a-file-in-the-same-directory-as-a-python-script
-
 ### Python
 
 1.  **David M. Beazley:**  [Generators in Python](http://www.dabeaz.com/generators/)
@@ -36,6 +31,7 @@
 4.  **Python Tutorial:**  [Documentation with Sphinx](http://pyvideo.org/pycon-us-2013/documenting-your-project-in-sphinx.html)
 5.  **Python Tutorial:**  [Anonymous (a.k.a., Lambda or Inline) Functions in Python]( http://www.secnetix.de/olli/Python/lambda_functions.hawk)
 6.  **Python Tutorial:**  [Python Information and Examples](http://www.secnetix.de/olli/Python/)
+7.  **Python Tutorial:**  [Opening a file in the same directory of a Python script](http://stackoverflow.com/questions/4060221/how-to-reliably-open-a-file-in-the-same-directory-as-a-python-script)
 
 ### PostgreSQL
 
