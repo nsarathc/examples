@@ -42,6 +42,10 @@ PostgreSQL
 
 1. http://www.bentedder.com/use-pgadmin-access-postgres-database-within-vagrant-box/
 
+Linux
+-----
+
+1. Installing offline software packages: https://askubuntu.com/questions/25961/how-do-i-install-a-tar-gz-or-tar-bz2-file, and https://askubuntu.com/questions/191390/how-to-use-sudo-command-to-install-tar-gz 
 
 Miscellaneous
 -------------
@@ -49,3 +53,5 @@ Miscellaneous
 1. https://daringfireball.net/projects/markdown/syntax
 2. https://stackedit.io/editor
 3. HTML, CSS and JavaScript Lessons: http://learn.shayhowe.com/  (and) http://codeacademy.com/
+
+
