@@ -47,6 +47,11 @@
 1.  **How can I add a desktop/GUI to a command-line Ubuntu installation?** 
       *  [Instructions](https://askubuntu.com/questions/149058/how-can-i-add-a-desktop-gui-to-a-command-line-ubuntu-installation)
       
+### Interpersonal Skills 
+
+1.  **How to deal with a person who continuously needs help?**
+      *  [Discussion](https://interpersonal.stackexchange.com/questions/3697/dealing-with-a-person-who-continuously-needs-help)
+
 ### Miscellaneous
 
 1.  **Markdown**  
