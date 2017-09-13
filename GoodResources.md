@@ -43,7 +43,9 @@
       *  [Discussion 1](https://askubuntu.com/questions/25961/how-do-i-install-a-tar-gz-or-tar-bz2-file)
       *  [Discussion 2](https://askubuntu.com/questions/191390/how-to-use-sudo-command-to-install-tar-gz)      
 1.  **How to install packages with `apt-get` on a system connected via proxy?**
-      *  See [this discussion](https://askubuntu.com/questions/89437/how-to-install-packages-with-apt-get-on-a-system-connected-via-proxy).
+      *  [Instructions](https://askubuntu.com/questions/89437/how-to-install-packages-with-apt-get-on-a-system-connected-via-proxy).
+1.  **How can I add a desktop/GUI to a command-line Ubuntu installation?** 
+      *  [Instructions](https://askubuntu.com/questions/149058/how-can-i-add-a-desktop-gui-to-a-command-line-ubuntu-installation)
       
 ### Miscellaneous
 
