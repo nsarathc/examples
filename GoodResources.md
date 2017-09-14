@@ -60,3 +60,6 @@
 1.  **HTML, CSS and JavaScript Lessons**
       *  [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
       *  [Lessons on Codecademy](http://codeacademy.com/)
+      *  [Setting subject/content of an email using "mailto:"](https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-with-using-mailto)
+      *  [Insert a line break in "mailto:" body](https://stackoverflow.com/questions/22765834/insert-a-line-break-in-mailto-body)
+      
