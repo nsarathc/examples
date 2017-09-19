@@ -62,4 +62,7 @@
       *  [Lessons on Codecademy](http://codeacademy.com/)
       *  [Setting subject/content of an email using "mailto:"](https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-with-using-mailto)
       *  [Insert a line break in "mailto:" body](https://stackoverflow.com/questions/22765834/insert-a-line-break-in-mailto-body)
+      *  **React.js** 
+          *  [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
+          *  [Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
       
