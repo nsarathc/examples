@@ -65,4 +65,6 @@
       *  **React.js** 
           *  [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
           *  [Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
-      
+          *  [AngularJS Vs. ReactJS](https://dzone.com/articles/angularjs-vs-reactjs)
+          *  [5 reasons to choose Facebook’s ReactJS](https://www.valuecoders.com/blog/technology-and-apps/5-reasons-choose-facebooks-reactjs/)
+          *  [React on the Server for Beginners: Build a Universal React and Node App](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
