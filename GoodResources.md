@@ -26,12 +26,13 @@
 ### Python
 
 1.  **David M. Beazley:**  [Generators in Python](http://www.dabeaz.com/generators/)
-2.  **Python Tutorial:**  [SQLAlchemy (and a whole lot of Python)](https://www.fullstackpython.com/sqlalchemy.html)
-3.  **Python Tutorial:**  [SQLAlchemy](http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html)
-4.  **Python Tutorial:**  [Documentation with Sphinx](http://pyvideo.org/pycon-us-2013/documenting-your-project-in-sphinx.html)
-5.  **Python Tutorial:**  [Anonymous (a.k.a., Lambda or Inline) Functions in Python]( http://www.secnetix.de/olli/Python/lambda_functions.hawk)
-6.  **Python Tutorial:**  [Python Information and Examples](http://www.secnetix.de/olli/Python/)
-7.  **Python Tutorial:**  [Opening a file in the same directory of a Python script](http://stackoverflow.com/questions/4060221/how-to-reliably-open-a-file-in-the-same-directory-as-a-python-script)
+1.  **SQLAlchemy:**  [SQLAlchemy (and a whole lot of Python)](https://www.fullstackpython.com/sqlalchemy.html)
+1.  **SQLAlchemy:**  [SQLAlchemy](http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html)
+1.  **SQLAlchemy:**  [SQLAlchemy: What's the difference between flush() and commit()?]()
+1.  **Sphinx:**  [Documentation with Sphinx](http://pyvideo.org/pycon-us-2013/documenting-your-project-in-sphinx.html)
+1.  **Python Tutorial:**  [Anonymous (a.k.a., Lambda or Inline) Functions in Python]( http://www.secnetix.de/olli/Python/lambda_functions.hawk)
+1.  **Python Tutorial:**  [Python Information and Examples](http://www.secnetix.de/olli/Python/)
+1.  **Python Tutorial:**  [Opening a file in the same directory of a Python script](http://stackoverflow.com/questions/4060221/how-to-reliably-open-a-file-in-the-same-directory-as-a-python-script)
 
 ### PostgreSQL
 
@@ -62,9 +63,12 @@
       *  [Lessons on Codecademy](http://codeacademy.com/)
       *  [Setting subject/content of an email using "mailto:"](https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-with-using-mailto)
       *  [Insert a line break in "mailto:" body](https://stackoverflow.com/questions/22765834/insert-a-line-break-in-mailto-body)
+      *  **Require.js**
+          *  [Understanding RequireJS for Effective JavaScript Module Loading](https://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/)
       *  **React.js** 
           *  [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
           *  [Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
           *  [AngularJS Vs. ReactJS](https://dzone.com/articles/angularjs-vs-reactjs)
           *  [5 reasons to choose Facebook’s ReactJS](https://www.valuecoders.com/blog/technology-and-apps/5-reasons-choose-facebooks-reactjs/)
           *  [React on the Server for Beginners: Build a Universal React and Node App](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
+          *  [Made with React](http://madewithreact.com/)
