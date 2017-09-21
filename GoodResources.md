@@ -58,6 +58,7 @@
 1.  **Markdown**  
       *  [Syntax](https://daringfireball.net/projects/markdown/syntax)      
       *  [Online Editor](https://stackedit.io/editor)
+      *  [Online Table Generator](http://www.tablesgenerator.com/markdown_tables)
 1.  **HTML, CSS and JavaScript Lessons**
       *  [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
       *  [Lessons on Codecademy](http://codeacademy.com/)
