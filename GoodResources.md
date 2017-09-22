@@ -59,8 +59,12 @@
       *  [Syntax](https://daringfireball.net/projects/markdown/syntax)      
       *  [Online Editor](https://stackedit.io/editor)
       *  [Online Table Generator](http://www.tablesgenerator.com/markdown_tables)
+1.  **Front-End Development Handbook***
+      *  [2016](https://www.frontendhandbook.com/)
+      *  [2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 1.  **HTML, CSS and JavaScript Lessons**
       *  [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
+      *  [Eloquent Javascript](http://eloquentjavascript.net/)
       *  [Lessons on Codecademy](http://codeacademy.com/)
       *  [Setting subject/content of an email using "mailto:"](https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-with-using-mailto)
       *  [Insert a line break in "mailto:" body](https://stackoverflow.com/questions/22765834/insert-a-line-break-in-mailto-body)
