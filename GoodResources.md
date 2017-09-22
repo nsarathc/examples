@@ -68,6 +68,7 @@
           *  [Understanding RequireJS for Effective JavaScript Module Loading](https://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/)
       *  **React.js** 
           *  [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
+          *  [Learning React](https://daveceddia.com/how-to-learn-react/)
           *  [Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
           *  [AngularJS Vs. ReactJS](https://dzone.com/articles/angularjs-vs-reactjs)
           *  [5 reasons to choose Facebook’s ReactJS](https://www.valuecoders.com/blog/technology-and-apps/5-reasons-choose-facebooks-reactjs/)
