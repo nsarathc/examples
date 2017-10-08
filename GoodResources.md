@@ -78,3 +78,4 @@
           *  [5 reasons to choose Facebook’s ReactJS](https://www.valuecoders.com/blog/technology-and-apps/5-reasons-choose-facebooks-reactjs/)
           *  [React on the Server for Beginners: Build a Universal React and Node App](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
           *  [Made with React](http://madewithreact.com/)
+          *  [Vue.js Tutorials](https://hackr.io/tutorials/learn-vue-js)
