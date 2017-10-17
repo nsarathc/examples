@@ -37,6 +37,7 @@
 ### PostgreSQL
 
 1. http://www.bentedder.com/use-pgadmin-access-postgres-database-within-vagrant-box/
+1. [Sometimes pg_config shows 9.4 even 9.3 is installed.  Why/how to fix it?](https://stackoverflow.com/questions/30143046/pg-config-shows-9-4-instead-of-9-3)
 
 ### Linux
 
