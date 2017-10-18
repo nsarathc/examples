@@ -33,6 +33,7 @@
 1.  **Python Tutorial:**  [Anonymous (a.k.a., Lambda or Inline) Functions in Python]( http://www.secnetix.de/olli/Python/lambda_functions.hawk)
 1.  **Python Tutorial:**  [Python Information and Examples](http://www.secnetix.de/olli/Python/)
 1.  **Python Tutorial:**  [Opening a file in the same directory of a Python script](http://stackoverflow.com/questions/4060221/how-to-reliably-open-a-file-in-the-same-directory-as-a-python-script)
+1.  **Python Tutorial:**  [How to ask a question & read keyboard input from a Fabric script?](https://stackoverflow.com/questions/2246256/python-fabric-how-to-answer-to-keyboard-input)
 
 ### PostgreSQL
 
