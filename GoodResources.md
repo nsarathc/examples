@@ -50,6 +50,8 @@
       *  [Instructions](https://askubuntu.com/questions/89437/how-to-install-packages-with-apt-get-on-a-system-connected-via-proxy).
 1.  **How can I add a desktop/GUI to a command-line Ubuntu installation?** 
       *  [Instructions](https://askubuntu.com/questions/149058/how-can-i-add-a-desktop-gui-to-a-command-line-ubuntu-installation)
+1.  **How to setup static IP on a Ubuntu Linux Host?**
+      *  [Instructions](https://www.howtoforge.com/linux-basics-set-a-static-ip-on-ubuntu)
       
 ### Interpersonal Skills 
 
