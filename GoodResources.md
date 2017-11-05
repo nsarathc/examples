@@ -52,6 +52,9 @@
       *  [Instructions](https://askubuntu.com/questions/149058/how-can-i-add-a-desktop-gui-to-a-command-line-ubuntu-installation)
 1.  **How to setup static IP on a Ubuntu Linux Host?**
       *  [Instructions](https://www.howtoforge.com/linux-basics-set-a-static-ip-on-ubuntu)
+1.  **Installing Oracle Java 8 on Ubuntu Linux Host**
+      *  [1](https://medium.com/coderscorner/installing-oracle-java-8-in-ubuntu-16-10-845507b13343)
+      *  [2](http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html)
       
 ### Interpersonal Skills 
 
