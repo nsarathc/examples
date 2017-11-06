@@ -19,6 +19,7 @@
 1.  **Python Tutorial:** [Python OOP Series, 1](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
 1.  **Python Tutorial:** [Preparing for Python Interviews](https://www.youtube.com/watch?v=DEwgZNC-KyE)
 1.  **Python Tutorial:** [Python Metaprogramming for Mad Scientists and Evil Geniuses](https://www.youtube.com/watch?v=Adr_QuDZxuM)
+1.  **Python Tutorial:** [Introduction to Pandas](https://www.youtube.com/watch?v=-NR-ynQg0YM)
 
 
 ## Good Links
