@@ -36,15 +36,20 @@
 1.  **Python Tutorial:**  [Opening a file in the same directory of a Python script](http://stackoverflow.com/questions/4060221/how-to-reliably-open-a-file-in-the-same-directory-as-a-python-script)
 1.  **Python Tutorial:**  [How to ask a question & read keyboard input from a Fabric script?](https://stackoverflow.com/questions/2246256/python-fabric-how-to-answer-to-keyboard-input)
 1.  **Python Tutorial:** [How to format a non-formatted XML document using python?](https://stackoverflow.com/questions/749796/pretty-printing-xml-in-python)
+1.  **Installing Flake8 Linter** [https://pypi.python.org/pypi/flake8]
 
 ### PostgreSQL
 
-1. http://www.bentedder.com/use-pgadmin-access-postgres-database-within-vagrant-box/
-1. [Sometimes pg_config shows 9.4 even 9.3 is installed.  Why/how to fix it?](https://stackoverflow.com/questions/30143046/pg-config-shows-9-4-instead-of-9-3)
+1.  http://www.bentedder.com/use-pgadmin-access-postgres-database-within-vagrant-box/
+1.  [Sometimes pg_config shows 9.4 even 9.3 is installed.  Why/how to fix it?](https://stackoverflow.com/questions/30143046/pg-config-shows-9-4-instead-of-9-3)
+1.  [Configuring PostgreSQL for Pretty Good Performance](https://www.linux.com/learn/configuring-postgresql-pretty-good-performance)
 
 ### Linux
 
-1. **Installing offline software packages:** 
+1.  **Installing Syntax Checker into VIM***
+      *  [Syntastic](https://github.com/vim-syntastic/syntastic)
+      *  [Source](https://stackoverflow.com/questions/9864543/vim-and-pep-8-style-guide-for-python-code)
+1.  **Installing offline software packages:** 
       *  [Discussion 1](https://askubuntu.com/questions/25961/how-do-i-install-a-tar-gz-or-tar-bz2-file)
       *  [Discussion 2](https://askubuntu.com/questions/191390/how-to-use-sudo-command-to-install-tar-gz)      
 1.  **How to install packages with `apt-get` on a system connected via proxy?**
@@ -54,9 +59,13 @@
 1.  **How to setup static IP on a Ubuntu Linux Host?**
       *  [Instructions](https://www.howtoforge.com/linux-basics-set-a-static-ip-on-ubuntu)
 1.  **Installing Oracle Java 8 on Ubuntu Linux Host**
-      *  [1](https://medium.com/coderscorner/installing-oracle-java-8-in-ubuntu-16-10-845507b13343)
-      *  [2](http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html)
-      
+      *  [Information Part 1](https://medium.com/coderscorner/installing-oracle-java-8-in-ubuntu-16-10-845507b13343)
+      *  [Information Part 2](http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html)
+1.  **Increasing RAM for Ubuntu VM provisioned by Vagrant**
+      *  [How to?](http://www.josheaton.org/increase-memory-vagrant-virtual-machine/)
+1.  **How to set timezone for Vagrant provisioned Ubuntu VM (automatically)?**
+      *  [Instructions](https://stackoverflow.com/questions/33939834/how-to-correct-system-clock-in-vagrant-automatically)
+
 ### Interpersonal Skills 
 
 1.  **How to deal with a person who continuously needs help?**
