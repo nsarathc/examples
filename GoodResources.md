@@ -82,6 +82,7 @@
 1.  **Front-End Development Handbook**
       *  [2016](https://www.frontendhandbook.com/)
       *  [2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+      *  [2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 1.  **HTML, CSS and JavaScript Lessons**
       *  [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
       *  [Eloquent Javascript](http://eloquentjavascript.net/)
