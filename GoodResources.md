@@ -46,7 +46,7 @@
 
 ### Linux
 
-1.  **Installing Syntax Checker into VIM***
+1.  **Installing Syntax Checker into VIM**
       *  [Syntastic](https://github.com/vim-syntastic/syntastic)
       *  [Source](https://stackoverflow.com/questions/9864543/vim-and-pep-8-style-guide-for-python-code)
 1.  **Installing offline software packages:** 
@@ -76,8 +76,10 @@
 1.  **Markdown**  
       *  [Syntax](https://daringfireball.net/projects/markdown/syntax)      
       *  [Online Editor](https://stackedit.io/editor)
-      *  [Online Table Generator](http://www.tablesgenerator.com/markdown_tables)
-1.  **Front-End Development Handbook***
+      *  [Online Table Generator](http://www.tablesgenerator.com/markdown_tables)     
+1.  **SVN**
+      *  [Editing Commit Message](https://stackoverflow.com/questions/304383/how-to-edit-log-message-already-committed-in-subversion)
+1.  **Front-End Development Handbook**
       *  [2016](https://www.frontendhandbook.com/)
       *  [2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 1.  **HTML, CSS and JavaScript Lessons**
