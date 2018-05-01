@@ -38,6 +38,7 @@
 1.  **Python Tutorial:** [How to format a non-formatted XML document using python?](https://stackoverflow.com/questions/749796/pretty-printing-xml-in-python)
 1.  **Installing Flake8 Linter** [https://pypi.python.org/pypi/flake8]
 1.  **Creating Python 3 Virtual Environment** [https://stackoverflow.com/questions/29934032/virtualenv-python-3-ubuntu-14-04-64-bit]
+1.  **Crash Introduction to Celery & Celery Beat** [https://breadcrumbscollector.tech/what-is-celery-beat-and-how-to-use-it/]
 
 ### PostgreSQL
 
