@@ -39,6 +39,8 @@
 1.  **Python Tool:** [Installing Flake8 Linter](https://pypi.python.org/pypi/flake8)
 1.  **Python Tool:** [Creating Python 3 Virtual Environment](https://stackoverflow.com/questions/29934032/virtualenv-python-3-ubuntu-14-04-64-bit)
 1.  **Python Tutorial:** [Crash Introduction to Celery & Celery Beat](https://breadcrumbscollector.tech/what-is-celery-beat-and-how-to-use-it/)
+1.  **Printing properties of an object:** [Here we go!](https://stackoverflow.com/questions/192109/is-there-a-built-in-function-to-print-all-the-current-properties-and-values-of-a)
+1.  **Deleting all pending tasks in celery / rabbitmq:** [Here we go!](https://stackoverflow.com/questions/7149074/deleting-all-pending-tasks-in-celery-rabbitmq)
 
 ### PostgreSQL
 
