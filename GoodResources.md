@@ -77,6 +77,8 @@
       *  [Discussion](https://interpersonal.stackexchange.com/questions/3697/dealing-with-a-person-who-continuously-needs-help)
 
 ### Miscellaneous
+1.  **Web Development Free Courses**
+      *  [Rithm School](https://www.rithmschool.com/courses)
 1.  **Rabbit MQ**
       *  [Absolute Beginners](https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
       *  [Dummy's Guide](https://tests4geeks.com/python-celery-rabbitmq-tutorial/)
