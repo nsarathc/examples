@@ -20,7 +20,7 @@
 1.  **Python Tutorial:** [Preparing for Python Interviews](https://www.youtube.com/watch?v=DEwgZNC-KyE)
 1.  **Python Tutorial:** [Python Metaprogramming for Mad Scientists and Evil Geniuses](https://www.youtube.com/watch?v=Adr_QuDZxuM)
 1.  **Python Tutorial:** [Introduction to Pandas](https://www.youtube.com/watch?v=-NR-ynQg0YM)
-
+1.  **Python Tutorial:** [Introduction to Marshmallow](https://www.youtube.com/watch?v=S7Fh5XnuhPU)
 
 ## Good Links
 
@@ -41,6 +41,7 @@
 1.  **Python Tutorial:** [Crash Introduction to Celery & Celery Beat](https://breadcrumbscollector.tech/what-is-celery-beat-and-how-to-use-it/)
 1.  **Printing properties of an object:** [Here we go!](https://stackoverflow.com/questions/192109/is-there-a-built-in-function-to-print-all-the-current-properties-and-values-of-a)
 1.  **Deleting all pending tasks in celery / rabbitmq:** [Here we go!](https://stackoverflow.com/questions/7149074/deleting-all-pending-tasks-in-celery-rabbitmq)
+1.  **Python Tutorial:** [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ### PostgreSQL
 
