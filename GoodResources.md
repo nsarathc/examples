@@ -42,6 +42,7 @@
 1.  **Printing properties of an object:** [Here we go!](https://stackoverflow.com/questions/192109/is-there-a-built-in-function-to-print-all-the-current-properties-and-values-of-a)
 1.  **Deleting all pending tasks in celery / rabbitmq:** [Here we go!](https://stackoverflow.com/questions/7149074/deleting-all-pending-tasks-in-celery-rabbitmq)
 1.  **Python Tutorial:** [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+1.  **Python Tutorial:** [Pandas & Python](http://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/)
 
 ### PostgreSQL
 
